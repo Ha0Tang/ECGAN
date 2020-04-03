@@ -18,4 +18,7 @@
 
 <img src='./imgs/seg_results.jpg' width=1200>
 
+## Related Projects
+**[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) | [LGGAN](https://github.com/Ha0Tang/LGGAN)**
+
 ## Code coming soon!
