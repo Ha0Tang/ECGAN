@@ -50,7 +50,6 @@
   journal={arXiv preprint arXiv:2002.01048},
   year={2020}
 }
-
 ```
 
 ## Code coming soon!
