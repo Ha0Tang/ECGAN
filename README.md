@@ -19,7 +19,7 @@
 <img src='./imgs/seg_results.jpg' width=1200>
 
 ## Related Projects
-**[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) | [LGGAN](https://github.com/Ha0Tang/LGGAN)**
+**[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) | [LGGAN](https://github.com/Ha0Tang/LGGAN) | [Guided-I2I-Translation-Papers](https://github.com/Ha0Tang/Guided-I2I-Translation-Papers)**
 
 ## Citation
 ```
