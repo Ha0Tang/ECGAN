@@ -1,8 +1,8 @@
 ## Edge Guided GAN
 
-**Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis**  
+**[Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis](https://arxiv.org/abs/2003.13898)**  
 [Hao Tang](http://disi.unitn.it/~hao.tang/), [Xiaojuan Qi](https://xjqi.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Philip H. S. Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en), [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
-<br>In [ArXiv](https://arxiv.org/abs/2003.13898), 2020.
+<br>In ArXiv, 2020.
 
 ## Framework
 <img src='./imgs/method.jpg' width=1200>
