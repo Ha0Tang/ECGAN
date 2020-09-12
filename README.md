@@ -19,7 +19,7 @@
 <img src='./imgs/seg_results.jpg' width=1200>
 
 ## Related Projects
-**[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) | [LGGAN](https://github.com/Ha0Tang/LGGAN) | [PanoGAN](https://github.com/sswuai/PanoGAN) | [Guided-I2I-Translation-Papers](https://github.com/Ha0Tang/Guided-I2I-Translation-Papers)**
+**[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) | [DAGAN](https://github.com/Ha0Tang/DAGAN) | [LGGAN](https://github.com/Ha0Tang/LGGAN) | [PanoGAN](https://github.com/sswuai/PanoGAN) | [Guided-I2I-Translation-Papers](https://github.com/Ha0Tang/Guided-I2I-Translation-Papers)**
 
 ## Citation
 If you use this code for your research, please cite our papers.
@@ -30,6 +30,16 @@ EdgeGAN
   title={Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis},
   author={Tang, Hao and Qi, Xiaojuan and Xu, Dan and Torr, Philip HS and Sebe, Nicu},
   journal={arXiv preprint arXiv:2003.13898},
+  year={2020}
+}
+```
+
+DAGAN
+```
+@ inproceedings{tang2020dual,
+  title={Dual Attention GANs for Semantic Image Synthesis},
+  author={Tang, Hao and Bai, Song and Sebe, Nicu},
+  booktitle ={ACM MM},
   year={2020}
 }
 ```
