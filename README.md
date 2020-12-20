@@ -1,3 +1,11 @@
+[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://github.com/Ha0Tang/EdgeGAN/blob/master/LICENSE.md)
+![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
+![Packagist](https://img.shields.io/badge/Pytorch-1.0.0-red.svg)
+![Last Commit](https://img.shields.io/github/last-commit/Ha0Tang/EdgeGAN)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/Ha0Tang/EdgeGAN/graphs/commit-activity))
+![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
 ## Edge Guided GAN
 
 **[Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis](https://arxiv.org/abs/2003.13898)**  
