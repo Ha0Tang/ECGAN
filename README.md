@@ -1,17 +1,17 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ha0Tang/EdgeGAN) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ha0Tang/ECGAN) 
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://github.com/Ha0Tang/EdgeGAN/blob/master/LICENSE.md)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 ![Packagist](https://img.shields.io/badge/Pytorch-1.0.0-red.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/Ha0Tang/EdgeGAN)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/Ha0Tang/EdgeGAN/graphs/commit-activity))
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/Ha0Tang/ECGAN/graphs/commit-activity))
 ![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 ## Edge Guided GAN
 
-**[Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis](https://arxiv.org/abs/2003.13898)**  
-[Hao Tang](http://disi.unitn.it/~hao.tang/), [Xiaojuan Qi](https://xjqi.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Philip H. S. Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en), [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
-<br>In ArXiv, 2020.
+**[Edge Guided GANs with Contrastive Learning for Semantic Image Synthesis](https://arxiv.org/abs/2003.13898)**  
+[Hao Tang](https://ha0tang.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), [Guolei Sun](https://guoleisun.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en), [Radu Timofte](https://scholar.google.be/citations?user=u3MwH5kAAAAJ&hl=en), [Luc Van Gool](https://scholar.google.be/citations?user=TwMib_QAAAAJ&hl=en).
+<br>In ICLR 2023.
 
 ## Framework
 <img src='./imgs/method.jpg' width=1200>
@@ -33,13 +33,13 @@
 ## Citation
 If you use this code for your research, please cite our papers.
 
-EdgeGAN
+ECGAN
 ```
 @article{tang2020edge,
-  title={Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis},
-  author={Tang, Hao and Qi, Xiaojuan and Xu, Dan and Torr, Philip HS and Sebe, Nicu},
-  journal={arXiv preprint arXiv:2003.13898},
-  year={2020}
+  title={Edge Guided GANs with Contrastive Learning for Semantic Image Synthesis},
+  author={Tang, Hao and Qi, Xiaojuan and Sun, Guolei, and Xu, Dan and and Sebe, Nicu and Timofte Radu and Van Gool, Luc},
+  journal={ICLR},
+  year={2023}
 }
 ```
 
