@@ -35,7 +35,7 @@ If you use this code for your research, please cite our papers.
 
 ECGAN
 ```
-@article{tang2020edge,
+@article{tang2023edge,
   title={Edge Guided GANs with Contrastive Learning for Semantic Image Synthesis},
   author={Tang, Hao and Qi, Xiaojuan and Sun, Guolei, and Xu, Dan and and Sebe, Nicu and Timofte, Radu and Van Gool, Luc},
   journal={ICLR},
