@@ -7,7 +7,7 @@
 ![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-## Edge Guided GAN
+## ECGAN
 
 **[Edge Guided GANs with Contrastive Learning for Semantic Image Synthesis](https://arxiv.org/abs/2003.13898)**  
 [Hao Tang](https://ha0tang.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), [Guolei Sun](https://guoleisun.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en), [Radu Timofte](https://scholar.google.be/citations?user=u3MwH5kAAAAJ&hl=en), [Luc Van Gool](https://scholar.google.be/citations?user=TwMib_QAAAAJ&hl=en).
