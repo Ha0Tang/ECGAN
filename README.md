@@ -62,7 +62,7 @@ LGGAN
   year={2022}
 }
 
-@inproceedings{tang2019local,
+@inproceedings{tang2020local,
   title={Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation},
   author={Tang, Hao and Xu, Dan and Yan, Yan and Torr, Philip HS and Sebe, Nicu},
   booktitle={CVPR},
