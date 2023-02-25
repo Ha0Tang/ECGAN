@@ -37,7 +37,7 @@ ECGAN
 ```
 @article{tang2023edge,
   title={Edge Guided GANs with Contrastive Learning for Semantic Image Synthesis},
-  author={Tang, Hao and Qi, Xiaojuan and Sun, Guolei, and Xu, Dan and and Sebe, Nicu and Timofte, Radu and Van Gool, Luc},
+  author={Tang, Hao and Qi, Xiaojuan and Sun, Guolei, and Xu, Dan and Sebe, Nicu and Timofte, Radu and Van Gool, Luc},
   journal={ICLR},
   year={2023}
 }
