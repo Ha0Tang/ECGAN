@@ -14,18 +14,7 @@
 <br>In ICLR 2023.
 
 ## Framework
-<img src='./imgs/method.jpg' width=1200>
-
-## Results
-<img src='./imgs/cc_comp.jpg' width=1200>
-
-<br>
-
-<img src='./imgs/edge_results.jpg' width=1200>
-
-<br>
-
-<img src='./imgs/seg_results.jpg' width=1200>
+<img src='./imgs/method.png' width=1200>
 
 ## Related Projects
 **[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN) | [DAGAN](https://github.com/Ha0Tang/DAGAN) | [LGGAN](https://github.com/Ha0Tang/LGGAN) | [PanoGAN](https://github.com/sswuai/PanoGAN) | [Guided-I2I-Translation-Papers](https://github.com/Ha0Tang/Guided-I2I-Translation-Papers)**
